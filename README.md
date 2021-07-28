@@ -49,6 +49,8 @@ Check the :white_check_mark: Todos & :x: Not Todos
 
 ## :page_facing_up: Lab 2 Description
 
+:arrow_right: `Create a new repository using your GitHub account to set up GitHub pages and Jekyll.`
+
 :arrow_right: `Write the setup and installation instructions for GitHub pages and Jekyll you followed in the instructions.md.`
 
 :arrow_right: `Provide screenshots for each stage of the installation.` 
