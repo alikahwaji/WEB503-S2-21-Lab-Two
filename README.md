@@ -49,11 +49,11 @@ Check the :white_check_mark: Todos & :x: Not Todos
 
 ## :page_facing_up: Lab 1 Description
 
-:arrow_right: `Setup p5.js project for this repo and name the project first_p_five.`
+:arrow_right: `Write the setup and installation instructions for GitHub pages and Jekyll you followed in the instructions.md.`
 
-:arrow_right: `Follow the class activity and use this repo to write the code` 
+:arrow_right: `Provide screenshots for each stage of the installation.` 
 
-:arrow_right: `Select 3 examples of p5.js using p5.js documents in moodle`
+:arrow_right: `Provide an active line for your final github pages web page.`
 
 :arrow_right: `You must use NMIT APA 7th ed. Referencing Guide`
 
